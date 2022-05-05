@@ -1,0 +1,16 @@
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\bin\Debug\net5.0\Oppgaver om returverdier.exe
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\bin\Debug\net5.0\Oppgaver om returverdier.deps.json
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\bin\Debug\net5.0\Oppgaver om returverdier.runtimeconfig.json
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\bin\Debug\net5.0\Oppgaver om returverdier.runtimeconfig.dev.json
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\bin\Debug\net5.0\Oppgaver om returverdier.dll
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\bin\Debug\net5.0\Oppgaver om returverdier.pdb
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\obj\Debug\net5.0\Oppgaver om returverdier.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\obj\Debug\net5.0\Oppgaver om returverdier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\obj\Debug\net5.0\Oppgaver om returverdier.AssemblyInfoInputs.cache
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\obj\Debug\net5.0\Oppgaver om returverdier.AssemblyInfo.cs
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\obj\Debug\net5.0\Oppgaver om returverdier.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\obj\Debug\net5.0\Oppgaver om returverdier.dll
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\obj\Debug\net5.0\refint\Oppgaver om returverdier.dll
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\obj\Debug\net5.0\Oppgaver om returverdier.pdb
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\obj\Debug\net5.0\Oppgaver om returverdier.genruntimeconfig.cache
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om returverdier\Oppgaver om returverdier\obj\Debug\net5.0\ref\Oppgaver om returverdier.dll

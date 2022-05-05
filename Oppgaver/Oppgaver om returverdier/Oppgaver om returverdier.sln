@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oppgaver om returverdier", "Oppgaver om returverdier\Oppgaver om returverdier.csproj", "{AB8D8AB9-B9CA-4999-8FF7-7B83A6BF1CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8D8AB9-B9CA-4999-8FF7-7B83A6BF1CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8D8AB9-B9CA-4999-8FF7-7B83A6BF1CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8D8AB9-B9CA-4999-8FF7-7B83A6BF1CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8D8AB9-B9CA-4999-8FF7-7B83A6BF1CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6DF139A-F6E3-4919-B735-83E428A7C2B5}
+	EndGlobalSection
+EndGlobal

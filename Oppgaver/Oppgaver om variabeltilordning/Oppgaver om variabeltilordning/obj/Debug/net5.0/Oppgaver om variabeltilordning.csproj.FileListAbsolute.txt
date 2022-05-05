@@ -1,0 +1,16 @@
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\bin\Debug\net5.0\Oppgaver om variabeltilordning.exe
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\bin\Debug\net5.0\Oppgaver om variabeltilordning.deps.json
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\bin\Debug\net5.0\Oppgaver om variabeltilordning.runtimeconfig.json
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\bin\Debug\net5.0\Oppgaver om variabeltilordning.runtimeconfig.dev.json
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\bin\Debug\net5.0\Oppgaver om variabeltilordning.dll
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\bin\Debug\net5.0\Oppgaver om variabeltilordning.pdb
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\obj\Debug\net5.0\Oppgaver om variabeltilordning.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\obj\Debug\net5.0\Oppgaver om variabeltilordning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\obj\Debug\net5.0\Oppgaver om variabeltilordning.AssemblyInfoInputs.cache
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\obj\Debug\net5.0\Oppgaver om variabeltilordning.AssemblyInfo.cs
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\obj\Debug\net5.0\Oppgaver om variabeltilordning.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\obj\Debug\net5.0\Oppgaver om variabeltilordning.dll
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\obj\Debug\net5.0\refint\Oppgaver om variabeltilordning.dll
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\obj\Debug\net5.0\Oppgaver om variabeltilordning.pdb
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\obj\Debug\net5.0\Oppgaver om variabeltilordning.genruntimeconfig.cache
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om variabeltilordning\Oppgaver om variabeltilordning\obj\Debug\net5.0\ref\Oppgaver om variabeltilordning.dll

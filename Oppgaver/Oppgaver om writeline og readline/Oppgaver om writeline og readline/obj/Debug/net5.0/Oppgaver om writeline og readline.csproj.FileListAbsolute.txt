@@ -1,0 +1,16 @@
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\bin\Debug\net5.0\Oppgaver om writeline og readline.exe
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\bin\Debug\net5.0\Oppgaver om writeline og readline.deps.json
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\bin\Debug\net5.0\Oppgaver om writeline og readline.runtimeconfig.json
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\bin\Debug\net5.0\Oppgaver om writeline og readline.runtimeconfig.dev.json
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\bin\Debug\net5.0\Oppgaver om writeline og readline.dll
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\bin\Debug\net5.0\Oppgaver om writeline og readline.pdb
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\obj\Debug\net5.0\Oppgaver om writeline og readline.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\obj\Debug\net5.0\Oppgaver om writeline og readline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\obj\Debug\net5.0\Oppgaver om writeline og readline.AssemblyInfoInputs.cache
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\obj\Debug\net5.0\Oppgaver om writeline og readline.AssemblyInfo.cs
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\obj\Debug\net5.0\Oppgaver om writeline og readline.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\obj\Debug\net5.0\Oppgaver om writeline og readline.dll
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\obj\Debug\net5.0\refint\Oppgaver om writeline og readline.dll
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\obj\Debug\net5.0\Oppgaver om writeline og readline.pdb
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\obj\Debug\net5.0\Oppgaver om writeline og readline.genruntimeconfig.cache
+C:\Users\Daza\Documents\GitHub\cSharp\Oppgaver\Oppgaver om writeline og readline\Oppgaver om writeline og readline\obj\Debug\net5.0\ref\Oppgaver om writeline og readline.dll

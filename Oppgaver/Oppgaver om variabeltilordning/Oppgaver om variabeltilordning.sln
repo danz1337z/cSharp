@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oppgaver om variabeltilordning", "Oppgaver om variabeltilordning\Oppgaver om variabeltilordning.csproj", "{F0C7710A-81FE-4381-8E6F-8603D5FE7779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0C7710A-81FE-4381-8E6F-8603D5FE7779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C7710A-81FE-4381-8E6F-8603D5FE7779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C7710A-81FE-4381-8E6F-8603D5FE7779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C7710A-81FE-4381-8E6F-8603D5FE7779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F83A738D-BA74-498E-857B-2251F3237F2C}
+	EndGlobalSection
+EndGlobal
