@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using System.Drawing.Imaging; // added for img compressor
+
 namespace Snake
 {
     public partial class Form1 : Form
@@ -81,7 +83,31 @@ namespace Snake
 
         private void TakeSnapShot(object sender, EventArgs e)
         {
+            Label caption = new Label();
+            caption.Text = "I scored: " + score + " and my high score is " + highScore + " on the Snake game from danz1337z";
+            caption.Font = new Font("Ariel", 12, FontStyle.Bold);
+            caption.ForeColor = Color.DarkCyan;
+            caption.AutoSize = false;
+            caption.Width = picCanvas.Width;
+            caption.Height = 30;
+            caption.TextAlign = ContentAlignment.MiddleCenter;
+            picCanvas.Controls.Add(caption);
 
+            SaveFileDialog dialog = new SaveFileDialog();
+            dialog.FileName = "Snake Game Snapshot";
+            dialog.DefaultExt = "jpg";
+            dialog.Filter = "JPG Image File | *.jpg";
+            dialog.ValidateNames = true;
+
+            if (dialog.ShowDialog() == DialogResult.OK)
+            {
+                int width = Convert.ToInt32(picCanvas.Width);
+                int height = Convert.ToInt32(picCanvas.Height);
+                Bitmap bmp = new Bitmap(width, height);
+                picCanvas.DrawToBitmap(bmp, new Rectangle(0, 0, width, height));
+                bmp.Save(dialog.FileName, ImageFormat.Jpeg);
+                picCanvas.Controls.Remove(caption);
+            }
         }
 
         private void GameTimerEvent(object sender, EventArgs e)
@@ -142,6 +168,20 @@ namespace Snake
                     {
                         Snake[i].y = 0;
                     }
+
+                    if (Snake[i].x == food.x && Snake[i].y == food.y)
+                    {
+                        EatFood();
+                    }
+
+                    for (int j = 1; j < Snake.Count; j++)
+                    {
+                        if (Snake[i].x == Snake[j].x && Snake[i].y == Snake[j].y)
+                        {
+                            GameOver();
+                        }
+                    }
+
                 }
                 else
                 {
@@ -227,6 +267,22 @@ namespace Snake
             Snake.Add(body);
 
             food = new Circle() { x = rand.Next(2, maxWidth), y = rand.Next(2, maxHeight) };
+        }
+
+        private void GameOver()
+        {
+            gameTimer.Stop();
+            startButton.Enabled = true;
+            snapButton.Enabled = true;
+
+            if (score > highScore)
+            {
+                highScore = score;
+
+                txtHighScore.Text = "High Score: " + Environment.NewLine + highScore;
+                txtHighScore.ForeColor = Color.Maroon;
+                txtHighScore.TextAlign = ContentAlignment.MiddleCenter;
+            }
         }
 
 
