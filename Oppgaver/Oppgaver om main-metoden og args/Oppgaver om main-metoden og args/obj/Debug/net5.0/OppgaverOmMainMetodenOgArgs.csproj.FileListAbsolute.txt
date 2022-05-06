@@ -1,0 +1,16 @@
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\bin\Debug\net5.0\OppgaverOmMainMetodenOgArgs.exe
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\bin\Debug\net5.0\OppgaverOmMainMetodenOgArgs.deps.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\bin\Debug\net5.0\OppgaverOmMainMetodenOgArgs.runtimeconfig.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\bin\Debug\net5.0\OppgaverOmMainMetodenOgArgs.runtimeconfig.dev.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\bin\Debug\net5.0\OppgaverOmMainMetodenOgArgs.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\bin\Debug\net5.0\OppgaverOmMainMetodenOgArgs.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\obj\Debug\net5.0\OppgaverOmMainMetodenOgArgs.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\obj\Debug\net5.0\OppgaverOmMainMetodenOgArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\obj\Debug\net5.0\OppgaverOmMainMetodenOgArgs.AssemblyInfoInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\obj\Debug\net5.0\OppgaverOmMainMetodenOgArgs.AssemblyInfo.cs
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\obj\Debug\net5.0\OppgaverOmMainMetodenOgArgs.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\obj\Debug\net5.0\OppgaverOmMainMetodenOgArgs.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\obj\Debug\net5.0\refint\OppgaverOmMainMetodenOgArgs.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\obj\Debug\net5.0\OppgaverOmMainMetodenOgArgs.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\obj\Debug\net5.0\OppgaverOmMainMetodenOgArgs.genruntimeconfig.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\Oppgaver om main-metoden og args\Oppgaver om main-metoden og args\obj\Debug\net5.0\ref\OppgaverOmMainMetodenOgArgs.dll

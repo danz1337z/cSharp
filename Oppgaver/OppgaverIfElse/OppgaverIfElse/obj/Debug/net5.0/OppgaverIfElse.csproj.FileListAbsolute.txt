@@ -1,0 +1,16 @@
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\bin\Debug\net5.0\OppgaverIfElse.exe
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\bin\Debug\net5.0\OppgaverIfElse.deps.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\bin\Debug\net5.0\OppgaverIfElse.runtimeconfig.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\bin\Debug\net5.0\OppgaverIfElse.runtimeconfig.dev.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\bin\Debug\net5.0\OppgaverIfElse.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\bin\Debug\net5.0\OppgaverIfElse.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\obj\Debug\net5.0\OppgaverIfElse.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\obj\Debug\net5.0\OppgaverIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\obj\Debug\net5.0\OppgaverIfElse.AssemblyInfoInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\obj\Debug\net5.0\OppgaverIfElse.AssemblyInfo.cs
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\obj\Debug\net5.0\OppgaverIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\obj\Debug\net5.0\OppgaverIfElse.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\obj\Debug\net5.0\refint\OppgaverIfElse.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\obj\Debug\net5.0\OppgaverIfElse.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\obj\Debug\net5.0\OppgaverIfElse.genruntimeconfig.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\OppgaverIfElse\OppgaverIfElse\obj\Debug\net5.0\ref\OppgaverIfElse.dll
