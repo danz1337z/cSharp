@@ -4,19 +4,39 @@ namespace OppgaverIfElse
 {
     internal class Program
     {
-        static bool Blabla()
+        //------------Oppgave 2------------\\
+        static int Blabla()
         {
             int value1 = 5;
-            int value2 = 6;
+            int value2 = 5;
 
             bool status = value1 == value2;
 
             if (status)
             {
-                return true;
+                return value1 * value2;
             }
-            else { return false; }
+            else
+            {
+                return
+             value1 + value2;
+            }
         }
+
+        //------------Oppgave 1------------\\
+        //static bool Blabla()
+        //{
+        //    int value1 = 5;
+        //    int value2 = 6;
+
+        //    bool status = value1 == value2;
+
+        //    if (status)
+        //    {
+        //        return true;
+        //    }
+        //    else { return false; }
+        //}
         static void Main(string[] args)
         {
             //Console.Write("Write a number: ");
