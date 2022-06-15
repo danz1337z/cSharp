@@ -1,0 +1,16 @@
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\obj\Debug\net5.0\CrocodileGame5.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\obj\Debug\net5.0\CrocodileGame5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\obj\Debug\net5.0\CrocodileGame5.AssemblyInfoInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\obj\Debug\net5.0\CrocodileGame5.AssemblyInfo.cs
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\obj\Debug\net5.0\CrocodileGame5.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\bin\Debug\net5.0\CrocodileGame5.exe
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\bin\Debug\net5.0\CrocodileGame5.deps.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\bin\Debug\net5.0\CrocodileGame5.runtimeconfig.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\bin\Debug\net5.0\CrocodileGame5.runtimeconfig.dev.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\bin\Debug\net5.0\CrocodileGame5.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\bin\Debug\net5.0\CrocodileGame5.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\obj\Debug\net5.0\CrocodileGame5.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\obj\Debug\net5.0\refint\CrocodileGame5.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\obj\Debug\net5.0\CrocodileGame5.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\obj\Debug\net5.0\CrocodileGame5.genruntimeconfig.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame5\CrocodileGame5\obj\Debug\net5.0\ref\CrocodileGame5.dll

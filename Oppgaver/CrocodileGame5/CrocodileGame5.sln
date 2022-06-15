@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrocodileGame5", "CrocodileGame5\CrocodileGame5.csproj", "{CBFEFD01-15AC-477B-97AE-55A96B1349BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFEFD01-15AC-477B-97AE-55A96B1349BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFEFD01-15AC-477B-97AE-55A96B1349BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFEFD01-15AC-477B-97AE-55A96B1349BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFEFD01-15AC-477B-97AE-55A96B1349BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {055E2943-4386-4DB3-8B64-6E256664BE84}
+	EndGlobalSection
+EndGlobal

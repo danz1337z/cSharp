@@ -1,0 +1,15 @@
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\bin\Debug\net6.0\CSgo.exe
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\bin\Debug\net6.0\CSgo.deps.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\bin\Debug\net6.0\CSgo.runtimeconfig.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\bin\Debug\net6.0\CSgo.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\bin\Debug\net6.0\CSgo.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\obj\Debug\net6.0\CSgo.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\obj\Debug\net6.0\CSgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\obj\Debug\net6.0\CSgo.AssemblyInfoInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\obj\Debug\net6.0\CSgo.AssemblyInfo.cs
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\obj\Debug\net6.0\CSgo.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\obj\Debug\net6.0\CSgo.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\obj\Debug\net6.0\refint\CSgo.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\obj\Debug\net6.0\CSgo.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\obj\Debug\net6.0\CSgo.genruntimeconfig.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CSgo\CSgo\obj\Debug\net6.0\ref\CSgo.dll

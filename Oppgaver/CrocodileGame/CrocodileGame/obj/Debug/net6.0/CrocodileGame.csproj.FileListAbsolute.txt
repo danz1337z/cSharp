@@ -1,0 +1,15 @@
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\bin\Debug\net6.0\CrocodileGame.exe
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\bin\Debug\net6.0\CrocodileGame.deps.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\bin\Debug\net6.0\CrocodileGame.runtimeconfig.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\bin\Debug\net6.0\CrocodileGame.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\bin\Debug\net6.0\CrocodileGame.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\obj\Debug\net6.0\CrocodileGame.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\obj\Debug\net6.0\CrocodileGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\obj\Debug\net6.0\CrocodileGame.AssemblyInfoInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\obj\Debug\net6.0\CrocodileGame.AssemblyInfo.cs
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\obj\Debug\net6.0\CrocodileGame.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\obj\Debug\net6.0\CrocodileGame.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\obj\Debug\net6.0\refint\CrocodileGame.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\obj\Debug\net6.0\CrocodileGame.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\obj\Debug\net6.0\CrocodileGame.genruntimeconfig.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CrocodileGame\CrocodileGame\obj\Debug\net6.0\ref\CrocodileGame.dll
