@@ -84,7 +84,7 @@ namespace Snake
         private void TakeSnapShot(object sender, EventArgs e)
         {
             Label caption = new Label();
-            caption.Text = "I scored: " + score + " and my high score is " + highScore + " on the Snake game from danz1337z";
+            caption.Text = "I scored: " + score + " My high score is " + highScore + " on the Snake game by danz1337z";
             caption.Font = new Font("Ariel", 12, FontStyle.Bold);
             caption.ForeColor = Color.DarkCyan;
             caption.AutoSize = false;

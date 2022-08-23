@@ -1,0 +1,15 @@
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\obj\Debug\net6.0\CYOA.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\obj\Debug\net6.0\CYOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\obj\Debug\net6.0\CYOA.AssemblyInfoInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\obj\Debug\net6.0\CYOA.AssemblyInfo.cs
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\obj\Debug\net6.0\CYOA.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\bin\Debug\net6.0\CYOA.exe
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\bin\Debug\net6.0\CYOA.deps.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\bin\Debug\net6.0\CYOA.runtimeconfig.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\bin\Debug\net6.0\CYOA.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\bin\Debug\net6.0\CYOA.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\obj\Debug\net6.0\CYOA.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\obj\Debug\net6.0\refint\CYOA.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\obj\Debug\net6.0\CYOA.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\obj\Debug\net6.0\CYOA.genruntimeconfig.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CYOA\CYOA\obj\Debug\net6.0\ref\CYOA.dll

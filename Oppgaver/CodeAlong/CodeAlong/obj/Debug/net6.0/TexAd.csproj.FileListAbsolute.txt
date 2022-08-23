@@ -1,0 +1,17 @@
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\bin\Debug\net6.0\TexAd.exe
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\bin\Debug\net6.0\TexAd.deps.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\bin\Debug\net6.0\TexAd.runtimeconfig.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\bin\Debug\net6.0\TexAd.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\bin\Debug\net6.0\TexAd.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\obj\Debug\net6.0\TexAd.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\obj\Debug\net6.0\TexAd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\obj\Debug\net6.0\TexAd.AssemblyInfoInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\obj\Debug\net6.0\TexAd.AssemblyInfo.cs
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\obj\Debug\net6.0\TexAd.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\obj\Debug\net6.0\TexAd.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\obj\Debug\net6.0\refint\TexAd.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\obj\Debug\net6.0\TexAd.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\obj\Debug\net6.0\TexAd.genruntimeconfig.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\obj\Debug\net6.0\ref\TexAd.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\bin\Debug\net6.0\Figgle.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CodeAlong\CodeAlong\obj\Debug\net6.0\TexAd.csproj.CopyComplete

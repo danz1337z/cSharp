@@ -1,0 +1,17 @@
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\bin\Debug\CarRacing.exe.config
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\bin\Debug\CarRacing.exe
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\bin\Debug\CarRacing.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\MainWindow.g.cs
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\App.g.cs
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\CarRacing_MarkupCompile.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\CarRacing_MarkupCompile.lref
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\MainWindow.baml
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\CarRacing.g.resources
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\CarRacing.Properties.Resources.resources
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.GenerateResource.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\CarRacing.exe
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\CarRacing.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\CarRacing\CarRacing\obj\Debug\CarRacing_Content.g.cs

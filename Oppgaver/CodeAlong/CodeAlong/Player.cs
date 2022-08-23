@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodeAlong
+namespace TexAd
 {
     internal class Player
     {
@@ -17,5 +17,6 @@ namespace CodeAlong
             Name = aName;
             Inventory = new Inventory();
         }
+
     }
 }

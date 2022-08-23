@@ -1,0 +1,15 @@
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\bin\Debug\net6.0\TextAdventure.exe
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\bin\Debug\net6.0\TextAdventure.deps.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\bin\Debug\net6.0\TextAdventure.runtimeconfig.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\bin\Debug\net6.0\TextAdventure.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\bin\Debug\net6.0\TextAdventure.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.AssemblyInfoInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.AssemblyInfo.cs
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\obj\Debug\net6.0\refint\TextAdventure.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.genruntimeconfig.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\TextAdventure\TextAdventure\obj\Debug\net6.0\ref\TextAdventure.dll
