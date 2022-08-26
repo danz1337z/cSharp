@@ -7,11 +7,18 @@ using static System.Console;
 
 namespace CYOA
 {
-    internal class BranchTwo
+    internal class BranchTwo : Branch
     {
+
         private List<Items> inventory;
 
-        public BranchTwo()
+        internal Fight Fight { get; set; }
+        public BranchTwo(Fight fight)
+        {
+            Fight = fight;
+        }
+
+        public override void BranchStart()
         {
             Console.WriteLine("Before you are two sets of stairs. One going up and one going down.");
             string stairChoice = Console.ReadLine().ToLower();
@@ -24,7 +31,9 @@ namespace CYOA
             else if (stairChoice == "down")
             {
                 Console.WriteLine("Going down");
-                DownStairs();
+                Console.WriteLine("Downstairs you find a door");
+                Console.WriteLine("The door is locked. Seeing no way to open it, you return upstairs.");
+
             }
             else
             {
@@ -32,7 +41,7 @@ namespace CYOA
             }
         }
 
-        public virtual void UpStairs()
+        public void UpStairs()
         {
             inventory = new List<Items>();
             Clear();
@@ -51,24 +60,29 @@ namespace CYOA
                 Console.WriteLine("you died");
             }
         }
-        public virtual void DownStairs()
+        public void DownStairs()
         {
             Clear();
             Console.WriteLine("Downstairs you find a door");
             Console.WriteLine("The door is locked. What do you want to use?");
-            string open = Console.ReadLine();
+            string open = Console.ReadLine().ToLower();
             if (inventory.Exists(x => x.Name == "key") && open == "key")
             {
                 Console.WriteLine("The door opens.");
-            }
-            if (!inventory.Exists(x => x.Name == "key") && open == "key")
-            {
-                Console.WriteLine("The door remains shut.");
+                OpenDoor();
             }
             else
             {
                 Console.WriteLine("The door remains shut.");
             }
         }
+
+        public void OpenDoor()
+        {
+            Console.WriteLine($"You are entering a new room, {Fight.PlayerName}");
+            Console.ReadLine();
+            Fight.FightRoom();
+        }
     }
 }
+

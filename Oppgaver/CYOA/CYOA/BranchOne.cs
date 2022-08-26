@@ -7,11 +7,17 @@ using System.Threading.Tasks;
 
 namespace CYOA
 {
-    internal class BranchOne
+    internal class BranchOne : Branch
     {
-        public BranchOne()
+        internal Fight Fight { get; set; }
+        public BranchOne(Fight fight)
         {
-            Console.WriteLine("There's a monster. It eats you.");
+            Fight = fight;
+        }
+
+        public override void BranchStart()
+        {
+            Console.WriteLine($"There's a monster. It eats you. {Fight.PlayerName} is dead.");
         }
     }
 }

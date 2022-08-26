@@ -10,7 +10,6 @@ namespace CYOA
     {
         public string name;
         private bool useable;
-        private bool needsItem;
         public Items(string _name, bool canUse)
         {
             name = _name;

@@ -6,11 +6,19 @@ using System.Threading.Tasks;
 
 namespace CYOA
 {
-    internal class BranchThree
+    internal class BranchThree : Branch
     {
-        public BranchThree()
+
+        internal Fight Fight { get; set; }
+        public BranchThree(Fight fight)
         {
-            Console.WriteLine("yo");
+            Fight = fight;
+        }
+
+        public override void BranchStart()
+        {
+            Console.WriteLine($"yo {Fight.PlayerName}");
+            Fight.FightRoom();
         }
     }
 }
