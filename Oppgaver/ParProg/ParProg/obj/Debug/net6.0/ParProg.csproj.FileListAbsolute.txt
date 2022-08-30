@@ -1,0 +1,15 @@
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\obj\Debug\net6.0\ParProg.csproj.AssemblyReference.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\obj\Debug\net6.0\ParProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\obj\Debug\net6.0\ParProg.AssemblyInfoInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\obj\Debug\net6.0\ParProg.AssemblyInfo.cs
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\obj\Debug\net6.0\ParProg.csproj.CoreCompileInputs.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\bin\Debug\net6.0\ParProg.exe
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\bin\Debug\net6.0\ParProg.deps.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\bin\Debug\net6.0\ParProg.runtimeconfig.json
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\bin\Debug\net6.0\ParProg.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\bin\Debug\net6.0\ParProg.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\obj\Debug\net6.0\ParProg.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\obj\Debug\net6.0\refint\ParProg.dll
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\obj\Debug\net6.0\ParProg.pdb
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\obj\Debug\net6.0\ParProg.genruntimeconfig.cache
+C:\Users\Daza\Documents\GitHub\ProsjektT3\cSharp\Oppgaver\ParProg\ParProg\obj\Debug\net6.0\ref\ParProg.dll
